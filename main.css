@@ -1,2 +1,10 @@
 /* body background color ? */
 /*another comment*/ 
+
+body{
+    background-color: lightpink;
+}
+
+div {
+    border: 1px black solid;
+}
